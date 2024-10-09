@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 0455acb2effe9494cbdfa4cd12945bb3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - questionClip: {fileID: 8300000, guid: 8b37593440bf046dab8f4f87d9eb3cb0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
